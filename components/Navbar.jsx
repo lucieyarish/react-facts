@@ -4,14 +4,14 @@ const Navbar = () => {
   return (
     <>
       <header>
-        <nav className="nav-bar">
+        <nav className="nav">
           <img
             src="/assets/react-icon-small.png"
             alt="Blue React logo"
-            className="nav-logo"
+            className="nav--icon"
           />
-          <h3 className="site-name">ReactFacts</h3>
-          <h4 className="course-section">React Course - Project 1</h4>
+          <h3 className="nav--logo_text">ReactFacts</h3>
+          <h4 className="nav--title">React Course - Project 1</h4>
         </nav>
       </header>
     </>

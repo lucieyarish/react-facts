@@ -1,21 +1,21 @@
-.nav-bar {
+.nav {
     display: flex;
     align-items: center;
     background: #21222A;
     padding: 1em 2em;
 }
 
-.nav-logo {
+.nav--icon {
     height: 35px;
     margin-right: 0.5em;
 }
 
-.site-name {
+.nav--logo_text {
     margin-right: auto;
     color: #61DAFB;
     font-size: 1.4rem;
 }
 
-.course-section {
+.nav--title {
     color: #DEEBF8;
 }
