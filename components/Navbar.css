@@ -1,0 +1,21 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+    background: #21222A;
+    padding: 1em 2em;
+}
+
+.nav-logo {
+    height: 35px;
+    margin-right: 0.5em;
+}
+
+.site-name {
+    margin-right: auto;
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
+
+.course-section {
+    color: #DEEBF8;
+}
