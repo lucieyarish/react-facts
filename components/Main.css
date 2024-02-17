@@ -1,0 +1,19 @@
+.main-section {
+    color: #FFF;
+    padding: 1.5em 2em;
+}
+
+.title {
+    font-size: 2.5rem;
+}
+
+li {
+    font-weight: 300;
+    padding: 0.5em 0 0.75em 0.5em;
+    font-size: 1.5rem;
+}
+
+li::marker {
+    color: #61DAFB;
+    font-size: 2rem;
+}
